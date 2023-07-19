@@ -14,5 +14,5 @@ grade-calcy	https://anirudhhbehera.github.io/Html-Css-Js-Project/grade-calcy/ind
 
 Tic-Tac-Toe-game-javascript	https://anirudhhbehera.github.io/Html-Css-Js-Project/Tic-Tac-Toe-game-javascript/index.html
 
-Temperature Converter-https://anirudhhbehera.github.io/Temperature Converter/Tic-Tac-Toe-game-javascript/index.html
+Temperature Converter-https://anirudhhbehera.github.io/Html-Css-Js-Project/Temperature-Converter/index.html
 
